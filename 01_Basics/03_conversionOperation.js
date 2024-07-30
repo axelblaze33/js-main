@@ -46,12 +46,12 @@ let str2 = " hitesh"
 let str3 = str1 + str2
 // console.log(str3);
 
-// console.log("1" + 2);
-// console.log(1 + "2");
-// console.log("1" + 2 + 2);
-// console.log(1 + 2 + "2");
+// console.log("1" + 2); //12
+// console.log(1 + "2"); //12
+// console.log("1" + 2 + 2); //122
+// console.log(1 + 2 + "2"); //32
 
-// console.log( (3 + 4) * 5 % 3);
+// console.log( (3 + 4) * 5 % 3); //dont write such complex problems
 
 // console.log(+true);
 // console.log(+"");
@@ -66,3 +66,4 @@ console.log(gameCounter);
 
 // link to study
 // https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
+
