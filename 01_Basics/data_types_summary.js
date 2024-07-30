@@ -18,7 +18,7 @@ console.log(id === anotherId);
 // console.log(typeof bigNumber);
 
 // Reference (Non primitive)
-
+// non primitive ka return type is always object
 // Array, Objects, Functions
 
 const heros = ["shaktiman", "naagraj", "doga"];
@@ -31,7 +31,7 @@ const myFunction = function(){
     console.log("Hello world");
 }
 
+console.log(typeof(myObj));
 console.log(typeof anotherId);
 
-let myObj1 = new Object()
 // https://262.ecma-international.org/5.1/#sec-11.4.3
