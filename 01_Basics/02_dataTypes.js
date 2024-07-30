@@ -28,4 +28,4 @@ let state; //undefined
 // object
 console.log(typeof "Pranav");
 console.log(typeof undefined); // output => undefined
-console.log(typeof null); // output =>object
+console.log(typeof null); // output => object
